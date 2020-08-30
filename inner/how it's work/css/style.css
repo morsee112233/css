@@ -1,0 +1,199 @@
+*{
+    margin: 0.5%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 2000px;
+}
+.buy-akk{
+left: 68px;
+top: 39px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+}
+hr{
+height: 0px;
+left: 68px;
+top: 103px;
+width: 100%;
+
+border: 1px solid #000000;
+}
+.step-1{
+grid-column-gap: 15px;
+height: 117px;
+left: 97px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+
+color: #3B5998;
+}
+.step-2{
+height: 113px;
+left: 105px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+
+color: #3B5998;
+}
+.step-3{
+height: 95px;
+left: 105px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+
+color: #3B5998;
+}
+.step-4{
+height: 117px;
+left: 105px;
+margin-top: 5%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 73px;
+
+color: #3B5998;
+}
+.steps-1{
+height: 76px;
+left: 475px;
+top: 246px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+}
+.pod-steps-1{
+height: 152px;
+left: 480px;
+top: 349px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+white-space: pre;
+
+color: #FF0000;
+}
+.steps-2{
+    height: 93px;
+    left: 458px;
+    top: 559px;
+    white-space:pre;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 37px;
+    
+    color: #000000;
+}
+.steps-3{
+height: 133px;
+left: 475px;
+top: 795px;
+white-space: pre;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+}
+.steps-4{
+height: 175px;
+left: 472px;
+white-space: pre;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+}
+.mail{
+display: flex;
+height: 135px;
+left: 70px;
+margin-top: 10%;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #000000;
+
+}
+.phone{
+display: flex;
+height: 88px;
+left: 70px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+margin-top: 5%;
+
+color: #FF0000;
+}
+.dont-buy{
+display: flex;
+height: 102px;
+left: 70px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+margin-top: 15%;
+
+color: #000000;
+}
+.oplata{
+    display: flex;
+height: 53px;
+left: 70px;
+margin-top: 10%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+
+color: #000000;
+
+}
